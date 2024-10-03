@@ -625,6 +625,16 @@
 				}
 			},
 			{
+				"pid": 118,
+				"name": "LIFX Z",
+				"features": {
+					"color": true,
+					"chain": false,
+					"infrared": true,
+					"multizone": true
+				}
+			},
+			{
 				"pid": 130,
 				"name": "LIFX Color 1000",
 				"features": {
