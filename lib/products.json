@@ -623,6 +623,26 @@
 					"infrared": true,
 					"multizone": false
 				}
+			},
+			{
+				"pid": 130,
+				"name": "LIFX Color 1000",
+				"features": {
+					"color": true,
+					"chain": false,
+					"infrared": false,
+					"multizone": false
+				}
+			},
+			{
+				"pid": 144,
+				"name": "LIFX String",
+				"features": {
+					"color": true,
+					"chain": false,
+					"infrared": false,
+					"multizone": true
+				}
 			}
 		]
 	}
